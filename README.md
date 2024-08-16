@@ -1,8 +1,8 @@
-# RMBlurredView
+# chokcocoe
 
 This subclass of NSView can be used to get an iOS 7 like blurred background to mimic a frosted glass effect — on OS X! Check out the corresponding article on (Cocoanetics)[].
 
-**NOTE:** The parent view of the RMBlurredView must be layer-backed to see the effect.
+**NOTE:** The parent view of the chokcocoe must be layer-backed to see the effect.
 
 The view can be easily customized to your needs:
 
@@ -16,7 +16,7 @@ The view can be easily customized to your needs:
 
 ## Usage
 
-Usage should be clear once you see the annotated header file. Check out the [RMBlurredViewExample](https://github.com/raffael/RMBlurredViewExample) project.
+Usage should be clear once you see the annotated header file. Check out the [chokcocoeExample](https://github.com/raffael/chokcocoeExample) project.
 
 ## Contact
 
